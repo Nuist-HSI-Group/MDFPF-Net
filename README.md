@@ -12,9 +12,7 @@ This project is recommended to run with **Python 3.11.11**.
 
 ## data preparation
 
-The dataset is available via [Baidu Netdisk](通过网盘分享的文件：data.zip
-链接: https://pan.baidu.com/s/1p-rvmH4Ohk_8tYc0uH8gJQ?pwd=675f 提取码: 675f 
---来自百度网盘超级会员v6的分享).
+The dataset is available via [Baidu Netdisk](https://pan.baidu.com/s/1p-rvmH4Ohk_8tYc0uH8gJQ?pwd=675f, code: 675f).
 
 ## Installation
 
